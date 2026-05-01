@@ -1,0 +1,9 @@
+{
+  "name": "My Weather App",
+  "short_name": "Weather",
+  "description": "Get real-time weather updates.",
+  "start_url": "/page.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff"
+}
